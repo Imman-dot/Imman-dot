@@ -12,7 +12,7 @@
 | Project | What it shows |
 |---------|---------------|
 | **LimitOrderBook-Sim** | Event-driven LOB simulator in Python; matching engine, latency metrics, micro-price visualisation |
-| **PairsTrading-AlphaLab** | Cointegration screening + rolling hedge-ratio calculator; full equity-curve back-test with cost model |
+| **PairsTrading** |Report Sharpe, max drawdown, turnover, and underwater plots |
 
 *(Repos will appear in my pinned section as they go live.)*
 
