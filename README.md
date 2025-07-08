@@ -20,7 +20,7 @@
 Blitz-chess enthusiast and calisthenics devotee—ask me about handstand push-up progressions!
 
 ### 📬 Let’s connect
-- LinkedIn → <https://www.linkedin.com/in/immanuel-edunsin>  
+- LinkedIn → (https://www.linkedin.com/in/immanuel-edunsin-0324ab336?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 - Email → edunsini@gmail.com
 
 <!-- ───────────────────────────────────────────────────────────────
