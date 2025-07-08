@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hi, I’m Immanuel (“Imman”) 👋
 
-<!--
-**Imman-dot/Imman-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 **Final-year T-Level Finance** student at *The Manchester College* (retail & commercial banking pathway)  
+- 💼 **Quant intern** at **Lloyds Bank** – Markets & Lending (June → August 2025) building pricing-data pipelines  
+- 🎯 **Target 2026 intake:** quant researcher / trading-dev roles at investment banks & hedge funds  
 
-Here are some ideas to get you started:
+### ⚒️ Tech stack
+`Python` • `pandas` • (learning) `NumPy`, `scikit-learn`, `SQL`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏗️ Flagship projects
+
+| Project | What it shows |
+|---------|---------------|
+| **LimitOrderBook-Sim** | Event-driven LOB simulator in Python; matching engine, latency metrics, micro-price visualisation |
+| **PairsTrading-AlphaLab** | Cointegration screening + rolling hedge-ratio calculator; full equity-curve back-test with cost model |
+
+*(Repos will appear in my pinned section as they go live.)*
+
+### ♟️ & 🏋️‍♂️  Beyond code
+Blitz-chess enthusiast and calisthenics devotee—ask me about handstand push-up progressions!
+
+### 📬 Let’s connect
+- LinkedIn → <https://www.linkedin.com/in/immanuel-edunsin>  
+- Email → imman@example.com  
+
+<!-- ───────────────────────────────────────────────────────────────
+     Optional GitHub stats card – uncomment when you’re ready.
+     Replace <YOUR_USERNAME> with your actual GitHub handle.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=<YOUR_USERNAME>&show_icons=true&theme=default" alt="GitHub Stats" />
+</p>
+─────────────────────────────────────────────────────────────── -->
