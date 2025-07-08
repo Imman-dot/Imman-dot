@@ -1,7 +1,7 @@
 ## Hi, I’m Immanuel (“Imman”) 👋
 
 - 🎓 **Final-year T-Level Finance** student at *The Manchester College* (retail & commercial banking pathway)  
-- 💼 **Quant intern** at **Lloyds Bank** – Markets & Lending (June → August 2025) building pricing-data pipelines  
+- 💼 **CFA** at **Lloyds Bank** – Customer Financial Assistance (June → August 2025) 
 - 🎯 **Target 2026 intake:** quant researcher / trading-dev roles at investment banks & hedge funds  
 
 ### ⚒️ Tech stack
@@ -21,7 +21,7 @@ Blitz-chess enthusiast and calisthenics devotee—ask me about handstand push-up
 
 ### 📬 Let’s connect
 - LinkedIn → <https://www.linkedin.com/in/immanuel-edunsin>  
-- Email → imman@example.com  
+- Email → edunsini@gmail.com
 
 <!-- ───────────────────────────────────────────────────────────────
      Optional GitHub stats card – uncomment when you’re ready.
