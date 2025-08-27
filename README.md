@@ -1,4 +1,4 @@
-## Hi, I’m Immanuel 
+## Hi, I’m Immanuel  
 
 - 🎓 **T-Level Finance (final year)** at *The Manchester College*  
 - 💼 **Summer Analyst (Customer Financial Assistance)** at **Lloyds Banking Group** – June to August 2025  
@@ -19,6 +19,7 @@
 | **Limit Order Book Simulator** | Event-driven Python simulator with matching engine, latency metrics, and micro-price visualisation |
 | **Pairs Trading Engine** | Back-tested 10 years of FTSE-350 data, finding cointegrated pairs and reporting Sharpe ratio, max drawdown, turnover, and underwater plots |
 | **FX Arbitrage Dashboard** | Real-time Covered Interest Parity (CIP) tracker with OANDA API, forward-rate deviation monitoring, PnL simulation, equity curve visualisation, and Slack alerts |
+| **FX Hedging Demo (Forwards & Options)** | Python case study of a €1m exposure: payoff tables, forward vs option decision metrics, breakeven analysis, and client-style chart outputs |
 | **Options Greeks Calculator** | CLI + plotting tool for Black–Scholes option pricing and Greeks (Delta, Gamma, Vega, Theta) across underlying price and time-to-expiry |
 | **Total Return Swap Case Study** | Structured case-study project explaining TRS mechanics, counterparty exposures, valuation under different scenarios, and its role in market risk management |
 
@@ -35,6 +36,7 @@ I value focus, discipline, and continuous improvement — whether on the trading
 ### 📬 Let’s Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/immanuel-edunsin-0324ab336/)  
 - 📧 Email: **edunsini@gmail.com**
+
 
 <!-- ───────────────────────────────────────────────────────────────
      Optional GitHub stats card – uncomment when you’re ready.
