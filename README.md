@@ -22,6 +22,8 @@
 | **FX Hedging Demo (Forwards & Options)** | Python case study of a €1m exposure: payoff tables, forward vs option decision metrics, breakeven analysis, and client-style chart outputs |
 | **Options Greeks Calculator** | CLI + plotting tool for Black–Scholes option pricing and Greeks (Delta, Gamma, Vega, Theta) across underlying price and time-to-expiry |
 | **Total Return Swap Case Study** | Structured case-study project explaining TRS mechanics, counterparty exposures, valuation under different scenarios, and its role in market risk management |
+| **Risk Frameworks: VaR & Stress Testing** | Python model calculating historical Value-at-Risk (95% & 99%) and Expected Shortfall for a £1m GBP/USD portfolio, with stress testing (–10%, +15%, and worst-day scenarios) and a one-page client-style report |
+
 
 *(Repositories are being pinned as they go live — each project includes full reports and visualisations.)*
 
