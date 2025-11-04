@@ -14,15 +14,16 @@
 
 ### 🏗️ Flagship Projects
 
-| Project | What it shows |
-|---------|---------------|
-| **Limit Order Book Simulator** | Event-driven Python simulator with matching engine, latency metrics, and micro-price visualisation |
-| **Pairs Trading Engine** | Back-tested 10 years of FTSE-350 data, finding cointegrated pairs and reporting Sharpe ratio, max drawdown, turnover, and underwater plots |
-| **FX Arbitrage Dashboard** | Real-time Covered Interest Parity (CIP) tracker with OANDA API, forward-rate deviation monitoring, PnL simulation, equity curve visualisation, and Slack alerts |
-| **FX Hedging Demo (Forwards & Options)** | Python case study of a €1m exposure: payoff tables, forward vs option decision metrics, breakeven analysis, and client-style chart outputs |
-| **Options Greeks Calculator** | CLI + plotting tool for Black–Scholes option pricing and Greeks (Delta, Gamma, Vega, Theta) across underlying price and time-to-expiry |
-| **Total Return Swap Case Study** | Structured case-study project explaining TRS mechanics, counterparty exposures, valuation under different scenarios, and its role in market risk management |
-| **Risk Frameworks: VaR & Stress Testing** | Python model calculating historical Value-at-Risk (95% & 99%) and Expected Shortfall for a £1m GBP/USD portfolio, with stress testing (–10%, +15%, and worst-day scenarios) and a one-page client-style report |
+| **Project** | **What It Shows** |
+|--------------|------------------|
+| **Equity Factor Model (Python)** | Multi-factor ranking model combining Value, Momentum, and Quality signals to identify outperforming equities; includes z-score normalisation, composite scoring, portfolio backtesting, and performance attribution. |
+| **Limit Order Book Simulator** | Event-driven Python simulator with a matching engine, latency metrics, and micro-price visualisation to study execution quality and order-flow dynamics. |
+| **Pairs Trading Engine** | Backtested 10 years of FTSE-350 data to find cointegrated pairs; reports Sharpe ratio, max drawdown, turnover, and underwater plots. |
+| **FX Arbitrage Dashboard** | Real-time Covered Interest Parity (CIP) tracker using OANDA API; monitors forward-rate deviations, simulates PnL, visualises equity curves, and sends Slack alerts. |
+| **FX Hedging Demo (Forwards & Options)** | Python case study of a €1 million exposure showing forward vs option hedging decisions, breakeven analysis, payoff charts, and client-style reporting. |
+| **Options Greeks Calculator** | Command-line and plotting tool for Black–Scholes option pricing and Greeks (Delta, Gamma, Vega, Theta) across underlying price and time-to-expiry. |
+| **Total Return Swap Case Study** | Structured analysis explaining TRS mechanics, counterparty exposures, valuation under varying scenarios, and its role in market-risk management. |
+| **Risk Frameworks: VaR & Stress Testing** | Python model computing historical VaR (95% & 99%) and Expected Shortfall for a £1 million GBP/USD portfolio, including –10%, +15%, and worst-day stress scenarios with a one-page client-style summary. |
 
 
 *(Repositories are being pinned as they go live — each project includes full reports and visualisations.)*
